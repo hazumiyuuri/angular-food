@@ -1,2 +1,2 @@
 # Food Manager
-Recipes and ingredient manager
+Recipes and ingredients manager
