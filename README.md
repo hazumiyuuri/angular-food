@@ -1,2 +1,2 @@
-# angular-food
+# Food Manager
 Recipes and ingredient manager
